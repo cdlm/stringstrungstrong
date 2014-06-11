@@ -1,0 +1,14 @@
+{
+	"category" : "StringStrungStrong-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DamienPollet 6/11/2014 18:58",
+	"instvars" : [
+		"classification" ],
+	"name" : "SSSStudy",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
