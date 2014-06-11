@@ -1,0 +1,1 @@
+I classify methods (well, selectors) of an API using tags.

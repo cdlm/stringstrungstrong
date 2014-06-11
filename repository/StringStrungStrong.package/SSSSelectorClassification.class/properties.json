@@ -1,0 +1,14 @@
+{
+	"category" : "StringStrungStrong-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DamienPollet 6/11/2014 18:41",
+	"instvars" : [
+		"taggedSelectors" ],
+	"name" : "SSSSelectorClassification",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

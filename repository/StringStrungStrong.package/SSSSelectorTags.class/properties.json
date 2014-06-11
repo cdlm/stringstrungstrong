@@ -1,0 +1,15 @@
+{
+	"category" : "StringStrungStrong-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DamienPollet 6/11/2014 18:42",
+	"instvars" : [
+		"selector",
+		"tags" ],
+	"name" : "SSSSelectorTags",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

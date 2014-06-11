@@ -1,0 +1,1 @@
+I describe a single method or selector of an API, associating a set of tags to it.
