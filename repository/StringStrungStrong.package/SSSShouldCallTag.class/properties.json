@@ -1,0 +1,14 @@
+{
+	"category" : "StringStrungStrong-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DamienPollet 6/12/2014 15:07",
+	"instvars" : [
+		"selector" ],
+	"name" : "SSSShouldCallTag",
+	"pools" : [
+		 ],
+	"super" : "SSSTag",
+	"type" : "normal" }

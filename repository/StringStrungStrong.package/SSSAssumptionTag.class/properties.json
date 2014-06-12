@@ -1,0 +1,14 @@
+{
+	"category" : "StringStrungStrong-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"message" ],
+	"name" : "SSSAssumptionTag",
+	"pools" : [
+		 ],
+	"super" : "SSSTag",
+	"type" : "normal" }
