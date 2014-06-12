@@ -1,3 +1,3 @@
 tags
 mispackaged
-	^ mispackaged ifNil: [ mispackaged := SSSNamedTag name: #mispackaged ]
+	^ mispackaged ifNil: [ mispackaged := SSSSymbolTag symbol: #mispackaged ]

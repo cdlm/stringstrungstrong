@@ -1,3 +1,3 @@
 printing
 printOn: aStream
-	name printOn: aStream
+	symbol printOn: aStream

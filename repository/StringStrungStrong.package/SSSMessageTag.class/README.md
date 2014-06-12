@@ -1,0 +1,1 @@
+I am a simple tag holding an arbitrary message

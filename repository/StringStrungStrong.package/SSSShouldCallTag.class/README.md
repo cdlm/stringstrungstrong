@@ -1,1 +1,1 @@
-I denote that this method should be rewritten in terms of another one.
+I denote that this method should be rewritten in terms of the selector I hold.

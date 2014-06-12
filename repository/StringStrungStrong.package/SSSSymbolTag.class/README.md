@@ -1,0 +1,1 @@
+I am a simple tag holding a unique symbol as my main payload

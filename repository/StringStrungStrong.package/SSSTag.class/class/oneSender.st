@@ -1,3 +1,3 @@
 tags
 oneSender
-	^ oneSender ifNil: [ oneSender := SSSNamedTag name: #oneSender ]
+	^ oneSender ifNil: [ oneSender := SSSSymbolTag symbol: #oneSender ]

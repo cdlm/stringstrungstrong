@@ -1,3 +1,3 @@
 tags
 adhoc
-	^ adhoc ifNil: [ adhoc := SSSNamedTag name: #adhoc ]
+	^ adhoc ifNil: [ adhoc := SSSSymbolTag symbol: #adhoc ]

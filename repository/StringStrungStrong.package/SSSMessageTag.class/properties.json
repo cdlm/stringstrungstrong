@@ -4,10 +4,10 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "DamienPollet 6/12/2014 13:33",
+	"commentStamp" : "DamienPollet 6/12/2014 20:56",
 	"instvars" : [
-		"name" ],
-	"name" : "SSSNamedTag",
+		"message" ],
+	"name" : "SSSMessageTag",
 	"pools" : [
 		 ],
 	"super" : "SSSTag",

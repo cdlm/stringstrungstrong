@@ -4,11 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "DamienPollet 6/12/2014 15:07",
+	"commentStamp" : "DamienPollet 6/12/2014 20:55",
 	"instvars" : [
-		"selector" ],
+		 ],
 	"name" : "SSSShouldCallTag",
 	"pools" : [
 		 ],
-	"super" : "SSSTag",
+	"super" : "SSSSymbolTag",
 	"type" : "normal" }
