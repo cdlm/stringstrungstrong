@@ -1,0 +1,17 @@
+{
+	"category" : "StringStrungStrong-Core",
+	"classinstvars" : [
+		"adhoc",
+		"noSenders",
+		"oneSender",
+		"mispackaged" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DamienPollet 6/12/2014 13:35",
+	"instvars" : [
+		 ],
+	"name" : "SSSTag",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

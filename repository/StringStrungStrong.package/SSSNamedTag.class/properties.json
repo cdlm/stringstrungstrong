@@ -1,0 +1,14 @@
+{
+	"category" : "StringStrungStrong-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DamienPollet 6/12/2014 13:33",
+	"instvars" : [
+		"name" ],
+	"name" : "SSSNamedTag",
+	"pools" : [
+		 ],
+	"super" : "SSSTag",
+	"type" : "normal" }

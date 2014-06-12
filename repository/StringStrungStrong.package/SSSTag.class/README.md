@@ -1,0 +1,1 @@
+I am the abstract superclass for selector tags, as well as an accessor for commonly used tags.

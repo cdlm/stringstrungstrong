@@ -1,3 +1,5 @@
 tagging
 with: aTag tagAll: aCollection
-	aCollection do: [ :each | classification tag: each with: aTag ]
+	| tag |
+	tag := aTag asSelectorTag.
+	aCollection do: [ :each | classification tag: each with: { tag } ]
