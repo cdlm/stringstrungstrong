@@ -2,9 +2,9 @@ data
 tagSplitting
 	self
 		tag: #keywords withAll: { #adhoc. SSSTag assumption: 'receiver is a selector'} ;
-		tag: #substrings with: (SSSTag shouldCall: #subStrings:).
+		tag: #substrings withAll: { SSSTag shouldCall: #subStrings: }.
 	
-	self with: #splittng tagAll: #(
+	self with: #splitting tagAll: #(
 		findBetweenSubStrs:
 		keywords
 		lines
