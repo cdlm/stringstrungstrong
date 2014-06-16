@@ -11,6 +11,9 @@ tagQuerying
 		tag: #lineNumber: withAll: #(querying extracting);
 		tag: #lineNumberCorrespondingToIndex: withAll: #(querying);
 
+		tag: #encompassLine: withAll: #(querying range line);
+		tag: #encompassParagraph: withAll: #(querying range paragraph duplication);
+
 		tag: #leadingCharRunLengthAt: withAll: #(querying representation);
 
 		tag: #numArgs withAll: #(querying smalltalk);
