@@ -13,6 +13,7 @@ tagTesting
 		
 		tag: #includesSubstring: withAll: #(testing defaultArgument);
 		tag: #includesSubstring:caseSensitive: withAll: #(testing);
+		tag: #beginsWithEmpty:caseSensitive: withAll: #(testing matching misnamed);
 		
 		tag: #isAllAlphaNumerics withAll: #(testing convenience);
 		tag: #isAllDigits withAll: #(testing convenience);
