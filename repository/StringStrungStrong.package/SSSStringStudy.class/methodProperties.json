@@ -2,9 +2,13 @@
 	"class" : {
 		 },
 	"instance" : {
+		"tagComparing" : "DamienPollet 6/16/2014 14:40",
 		"tagConverting" : "DamienPollet 6/13/2014 17:07",
 		"tagEnumerating" : "DamienPollet 6/13/2014 16:49",
 		"tagExtracting" : "DamienPollet 6/12/2014 13:00",
 		"tagFinding" : "DamienPollet 6/11/2014 19:13",
+		"tagQuerying" : "DamienPollet 6/16/2014 15:00",
 		"tagSplitting" : "DamienPollet 6/13/2014 17:17",
-		"tagStringConverting" : "DamienPollet 6/13/2014 17:32" } }
+		"tagStreaming" : "DamienPollet 6/16/2014 14:32",
+		"tagStringConverting" : "DamienPollet 6/16/2014 14:31",
+		"tagTesting" : "DamienPollet 6/16/2014 15:01" } }
