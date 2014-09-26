@@ -1,0 +1,16 @@
+{
+	"category" : "StringStrungStrong-Analysis",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"proxies",
+		"handler",
+		"count" ],
+	"name" : "SSSStringMethodUsageStatistics",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

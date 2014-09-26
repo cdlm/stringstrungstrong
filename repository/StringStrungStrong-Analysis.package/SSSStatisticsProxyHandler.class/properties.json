@@ -1,0 +1,14 @@
+{
+	"category" : "StringStrungStrong-Analysis",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"data" ],
+	"name" : "SSSStatisticsProxyHandler",
+	"pools" : [
+		 ],
+	"super" : "GHSimpleForwarderProxyHandler",
+	"type" : "normal" }

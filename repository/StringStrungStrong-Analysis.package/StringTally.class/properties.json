@@ -1,0 +1,14 @@
+{
+	"category" : "StringStrungStrong-Analysis",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "StringTally",
+	"pools" : [
+		 ],
+	"super" : "MessageTally",
+	"type" : "normal" }
