@@ -1,0 +1,14 @@
+{
+	"category" : "StringStrungStrong-NewStrings",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NewStringApiTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

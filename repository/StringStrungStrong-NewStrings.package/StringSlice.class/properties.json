@@ -1,0 +1,16 @@
+{
+	"category" : "StringStrungStrong-NewStrings",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"string",
+		"start",
+		"end" ],
+	"name" : "StringSlice",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
